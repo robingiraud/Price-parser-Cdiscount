@@ -23,6 +23,8 @@ You can find any product's SKU in the product page URL.
 ## Web app
 A litte user interface is included to this project
 
+![](https://firebasestorage.googleapis.com/v0/b/test-project-de3e7.appspot.com/o/after.png?alt=media&token=86a59e15-9de1-4228-9227-a411c41eaa60)
+
 To use it, you need to have Node.js and NPM installed : [npm](https://www.npmjs.com/get-npm)
 Go to /parser-app with command line tool and run :
 ```bash
