@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="cdiscount-robingiraud", # Replace with your own username
+    name="cdiscount_robin_clementine",
     version="0.0.1",
     author="Robin Giraud",
     author_email="robin.giraud5@gmail.com",
-    description="Simple package to parse Cdiscount product prices",
+    description="Simple package to parse any Cdiscount product prices",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/robingiraud/python-eval-robingiraud",
